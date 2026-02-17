@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bellevueplumbingco.com/sitemap.xml
